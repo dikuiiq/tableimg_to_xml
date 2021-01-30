@@ -1,0 +1,1 @@
+JPG images to be used for evaluation in the TabstructNet model will be generated here.
